@@ -1,0 +1,2 @@
+In the Project, I am an event manager would is going the make wine aviliable the the crowd and to keep up with
+my good repetition i have to provide the best wine avaliable. But the no one know i am a Machine Learning Engineer too, So the question is how would i make use of machine learning to solve this big problem ow mine.

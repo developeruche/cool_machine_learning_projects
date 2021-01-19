@@ -1,0 +1,1 @@
+This is a Machine Learning Srcipt to be used for classifing numbers for 0-9
